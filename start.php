@@ -1,7 +1,7 @@
 <?php
 
-define(ACCEPT_TOS_RELATIONSHIP, 'tos_agreement');
-define(ACCEPT_TOS_PRIVACY_RELATIONSHIP, 'privacy_agreement');
+define('ACCEPT_TOS_RELATIONSHIP', 'tos_agreement');
+define('ACCEPT_TOS_PRIVACY_RELATIONSHIP', 'privacy_agreement');
 
 require_once 'lib/hooks.php';
 require_once 'lib/functions.php';
